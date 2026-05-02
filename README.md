@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Alireza — @idlesys
 
-Python backend · 4 years · making stuff fast & reliable
+You can call me idlesys, cause I optimize until systems stay mostly idle :) and I also just like it better.
+
+Python focused Back-End engineer · 4 years · making stuff fast & reliable
 
 ## Toolbox
 
